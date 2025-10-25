@@ -15,11 +15,8 @@ This project demonstrates how to integrate VirusTotal threat intelligence with S
 **Tech Stack**
 
 a.  VirusTotal API 
-
 b.  Splunk Enterprise / Splunk Cloud
-
 c.  Python / Splunk scripts / REST API
-
 d.  JSON for data formatting
 
 **Usage**
